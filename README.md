@@ -13,3 +13,5 @@
 <h3>Info:</h3>
 <p>The testing scenario includes several steps to ensure thorough validation. It begins with checking if the API is operational, followed by registering a client and creating a new cart. All products are then searched, and a random product is selected. A product is added to the cart, with the process repeated to include more items. The cart details and its items are reviewed, the quantity of one item is modified, an item is replaced with another product, and an item is removed from the cart. An order is created using the cart, and all created orders and their details are reviewed. Order details are then modified, and finally, an order is deleted.</p>
 
+You can find the API documentation here:<a> https://lnkd.in/dqEXMyTJ</a>
+
