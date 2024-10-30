@@ -1,0 +1,105 @@
+{
+	"id": "27282e84-9feb-4654-ba5a-b0b15d8bbf52",
+	"name": "Grocery Store",
+	"values": [
+		{
+			"key": "BaseUrl",
+			"value": "https://simple-grocery-store-api.glitch.me",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pathVaraibleProduct",
+			"value": "products",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "coffieItemID",
+			"value": "4643",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "pathVaraibleCart",
+			"value": "carts",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "cartId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "itemId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "quantity",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "quantityReplaceed",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "quantityUpdated",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "pathVaraibleOrder",
+			"value": "orders",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "PathVariableItem",
+			"value": "items",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "productID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "productIdReplaced",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-10-30T06:43:19.491Z",
+	"_postman_exported_using": "Postman/11.18.0"
+}
